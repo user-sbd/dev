@@ -1,6 +1,5 @@
 # Ignore personal directories
 /music/
-/pdfs/
 
 # Ignore common system files
 .DS_Store
