@@ -4,18 +4,18 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/dev ~/Downloads -maxdepth 2 -type d | \
+    selected=$(find ~/dev -maxdepth 2 -type d -not -path '*/.git/*' -not -name '.git' | \
         sed "s|^$HOME/||" | \
         awk -F'/' '{print $NF}' | \
-        { echo ".config"; cat -; } | \
-        sk -p "> " --color="bw" --margin=10% | \
+        { echo "dots"; cat -; } | \
+        sk --color="bw" --margin=5% | \
         grep -v '^$'
     )
     if [[ -n "$selected" ]]; then
-        if [[ "$selected" == ".config" ]]; then
-            selected="$HOME/.config"
+        if [[ "$selected" == "dots" ]]; then
+            selected="$HOME/dots"
         else
-            selected=$(find ~/dev ~/Downloads -maxdepth 2 -type d -name "$selected" | head -n 1)
+            selected=$(find ~/dev ~/Downloads -maxdepth 2 -type d -not -path '*/.git/*' -not -name '.git' -name "$selected" | head -n 1)
         fi
     fi
 fi
