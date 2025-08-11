@@ -6,7 +6,6 @@ CURRENT_SESSION=$(tmux display-message -p '#S')
 SESSIONS=$(tmux list-sessions -F '#{session_name}' | grep -v "^$CURRENT_SESSION$")
 
 if [ -z "$SESSIONS" ]; then
-  tmux display-message "no sesh"
   sleep 2
   exit 0
 fi
@@ -18,4 +17,3 @@ while read -r session; do
   fi
 done <<< "$SESSIONS"
 
-tmux display-message "done"
