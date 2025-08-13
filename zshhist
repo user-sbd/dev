@@ -1448,3 +1448,12 @@ clear
 z
 z go
 tmux neww
+gc
+gc "hi"
+gc "hi"
+ga
+claer
+gp
+clear
+gc
+gc "hi"
