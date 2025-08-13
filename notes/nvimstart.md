@@ -1015,3 +1015,166 @@ times in msec
 059.624  000.457: first screen update
 059.629  000.005: --- NVIM STARTED ---
 
+--- Startup times for process: Primary (or UI client) ---
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.001  000.001: --- NVIM STARTING ---
+016.522  016.521: event init
+016.860  000.338: early init
+017.017  000.156: locale set
+017.162  000.145: init first window
+026.874  009.712: inits 1
+026.907  000.033: window checked
+026.917  000.010: parsing arguments
+039.076  000.085  000.085: require('vim.shared')
+039.260  000.079  000.079: require('vim.inspect')
+039.360  000.082  000.082: require('vim._options')
+039.365  000.279  000.118: require('vim._editor')
+039.435  000.067  000.067: require('vim._system')
+039.439  000.487  000.056: require('vim._init_packages')
+039.443  012.039: init lua interpreter
+042.560  003.117: nvim_ui_attach
+044.318  001.758: nvim_set_client_info
+044.334  000.016: --- NVIM STARTED ---
+
+--- Startup times for process: Embedded ---
+
+times in msec
+ clock   self+sourced   self:  sourced script
+ clock   elapsed:              other lines
+
+000.001  000.001: --- NVIM STARTING ---
+000.372  000.371: event init
+000.677  000.305: early init
+000.813  000.136: locale set
+000.937  000.124: init first window
+002.368  001.431: inits 1
+002.425  000.056: window checked
+002.433  000.008: parsing arguments
+004.587  000.162  000.162: require('vim.shared')
+004.925  000.114  000.114: require('vim.inspect')
+005.076  000.125  000.125: require('vim._options')
+005.084  000.479  000.240: require('vim._editor')
+005.212  000.125  000.125: require('vim._system')
+005.219  000.907  000.141: require('vim._init_packages')
+005.224  001.885: init lua interpreter
+005.483  000.259: expanding arguments
+005.545  000.062: inits 2
+006.068  000.523: init highlight
+006.071  000.003: waiting for UI
+006.245  000.174: done waiting for UI
+006.253  000.007: clear screen
+006.516  000.020  000.020: require('vim.keymap')
+007.954  000.265  000.265: sourcing nvim_exec2()
+008.179  001.921  001.637: require('vim._defaults')
+008.184  000.010: init default mappings & autocommands
+041.243  013.299  013.299: sourcing /usr/share/nvim/runtime/ftplugin.vim
+051.915  010.515  010.515: sourcing /usr/share/nvim/runtime/indent.vim
+052.309  000.073  000.073: sourcing /usr/share/nvim/archlinux.vim
+052.327  000.272  000.198: sourcing /etc/xdg/nvim/sysinit.vim
+072.099  000.466  000.466: require('vim._async')
+072.725  019.508  019.042: require('vim.pack')
+072.888  000.095  000.095: require('vim.fs')
+073.229  000.009  000.009: require('vim.F')
+087.006  000.123  000.123: sourcing /home/user/.local/share/nvim/site/pack/core/opt/showkeys/plugin/showkeys.lua
+099.822  000.247  000.247: require('typst-preview.config')
+099.939  000.921  000.674: require('typst-preview.utils')
+119.370  010.709  010.709: require('typst-preview.fetch')
+119.405  019.087  008.378: require('typst-preview.servers.factory')
+119.421  019.474  000.387: require('typst-preview.servers.manager')
+119.435  020.774  000.380: require('typst-preview.servers')
+119.444  021.035  000.262: require('typst-preview.events.server')
+119.826  000.374  000.374: require('typst-preview.events.editor')
+119.840  021.685  000.275: require('typst-preview.events')
+119.852  023.656  001.971: require('typst-preview.commands')
+120.024  023.943  000.288: sourcing /home/user/.local/share/nvim/site/pack/core/opt/typst-preview.nvim/plugin/init.lua
+150.864  012.663  012.663: sourcing /home/user/.local/share/nvim/site/pack/core/opt/undotree/plugin/undotree.vim
+168.548  014.851  014.851: require('vague.config.internal')
+168.573  015.252  000.401: require('vague')
+169.312  000.716  000.716: sourcing nvim_exec2() called at /home/user/.local/share/nvim/site/pack/core/opt/vague.nvim/colors/vague.lua:0
+169.887  000.536  000.536: sourcing nvim_exec2() called at /home/user/.local/share/nvim/site/pack/core/opt/vague.nvim/colors/vague.lua:0
+171.267  000.600  000.600: require('vague.groups.common')
+171.889  000.303  000.303: require('vague.utilities')
+171.901  000.591  000.288: require('vague.groups.diff')
+172.237  000.288  000.288: require('vague.groups.cmp')
+172.536  000.253  000.253: require('vague.groups.blink')
+173.337  000.445  000.445: require('vague.groups.syntax')
+188.493  015.145  015.145: require('vague.groups.treesitter')
+188.516  015.921  000.331: require('vague.groups.lsp-native')
+189.263  000.546  000.546: require('vague.groups.lsp-plugin')
+189.572  000.279  000.279: require('vague.groups.gitsigns')
+189.917  000.331  000.331: require('vague.groups.neotest')
+190.229  000.286  000.286: require('vague.groups.mini')
+190.612  000.331  000.331: require('vague.groups.neotree')
+190.916  000.246  000.246: require('vague.groups.telescope')
+191.280  000.236  000.236: require('vague.groups.treesitter-context')
+191.521  000.229  000.229: require('vague.groups.dashboard')
+191.828  000.295  000.295: require('vague.groups.snacks-picker')
+192.068  000.209  000.209: require('vague.groups.snacks-input')
+192.307  000.218  000.218: require('vague.groups.snacks-indent')
+192.553  000.235  000.235: require('vague.groups.rainbow-delimiters')
+192.773  000.208  000.208: require('vague.groups.vim-better-whitespace')
+192.788  022.434  001.133: require('vague.groups')
+192.798  022.876  000.441: require('vague.highlights')
+198.868  000.441  000.441: require('vague.terminal')
+198.923  045.706  005.885: sourcing /home/user/.local/share/nvim/site/pack/core/opt/vague.nvim/colors/vague.lua
+198.946  047.533  001.827: sourcing nvim_exec2() called at /home/user/dots/.config/nvim/init.lua:0
+198.983  000.017  000.017: sourcing nvim_exec2() called at /home/user/dots/.config/nvim/init.lua:0
+200.082  000.368  000.368: require('showkeys.state')
+200.725  000.630  000.630: require('showkeys.utils')
+200.744  001.753  000.755: require('showkeys')
+225.186  024.412  024.412: require('mini.pick')
+249.066  023.428  023.428: require('oil')
+249.418  000.327  000.327: require('oil.ringbuf')
+272.345  022.915  022.915: require('oil.config')
+280.474  007.705  007.705: require('vim.filetype')
+293.766  000.546  000.546: require('oil.log')
+293.821  011.464  010.918: require('oil.fs')
+309.955  000.268  000.268: require('oil.constants')
+310.022  016.191  015.923: require('oil.util')
+310.754  000.035  000.035: sourcing nvim_exec2() called at /home/user/dots/.config/nvim/init.lua:0
+310.783  258.350  046.228: sourcing /home/user/.config/nvim/init.lua
+310.822  020.203: sourcing vimrc file(s)
+341.303  000.089  000.089: sourcing /usr/share/nvim/site/ftdetect/ghostty.vim
+353.505  000.160  000.160: sourcing /usr/share/vim/vimfiles/ftdetect/ghostty.vim
+364.056  010.465  010.465: sourcing /usr/share/vim/vimfiles/ftdetect/meson.vim
+364.094  047.355  036.641: sourcing nvim_exec2() called at /usr/share/nvim/runtime/filetype.lua:0
+364.111  052.920  005.566: sourcing /usr/share/nvim/runtime/filetype.lua
+364.955  000.313  000.313: sourcing /usr/share/nvim/runtime/syntax/synload.vim
+365.235  000.935  000.621: sourcing /usr/share/nvim/runtime/syntax/syntax.vim
+366.027  000.035  000.035: sourcing /home/user/.local/share/nvim/site/pack/core/opt/undotree/plugin/undotree.vim
+366.462  000.156  000.156: sourcing /home/user/.local/share/nvim/site/pack/core/opt/typst-preview.nvim/plugin/init.lua
+366.736  000.060  000.060: sourcing /home/user/.local/share/nvim/site/pack/core/opt/showkeys/plugin/showkeys.lua
+367.864  000.362  000.362: sourcing /usr/share/nvim/runtime/plugin/gzip.vim
+378.164  009.464  009.464: sourcing /usr/share/nvim/runtime/pack/dist/opt/matchit/plugin/matchit.vim
+378.356  010.448  000.984: sourcing /usr/share/nvim/runtime/plugin/matchit.vim
+381.389  002.959  002.959: sourcing /usr/share/nvim/runtime/plugin/matchparen.vim
+381.514  000.055  000.055: sourcing /usr/share/nvim/runtime/plugin/netrwPlugin.vim
+381.882  000.307  000.307: sourcing /usr/share/nvim/runtime/plugin/rplugin.vim
+381.991  000.061  000.061: sourcing /usr/share/nvim/runtime/plugin/spellfile.vim
+382.278  000.244  000.244: sourcing /usr/share/nvim/runtime/plugin/tarPlugin.vim
+382.387  000.062  000.062: sourcing /usr/share/nvim/runtime/plugin/tutor.vim
+382.729  000.298  000.298: sourcing /usr/share/nvim/runtime/plugin/zipPlugin.vim
+382.909  000.136  000.136: sourcing /usr/share/nvim/runtime/plugin/editorconfig.lua
+383.181  000.228  000.228: sourcing /usr/share/nvim/runtime/plugin/man.lua
+383.410  000.172  000.172: sourcing /usr/share/nvim/runtime/plugin/nvim/net.lua
+383.663  000.208  000.208: sourcing /usr/share/nvim/runtime/plugin/osc52.lua
+383.967  000.258  000.258: sourcing /usr/share/nvim/runtime/plugin/shada.lua
+384.153  000.114  000.114: sourcing /usr/share/nvim/runtime/plugin/tohtml.lua
+384.205  003.367: loading rtp plugins
+384.504  000.299: loading packages
+385.222  000.718: loading after plugins
+385.234  000.012: inits 3
+446.020  060.786: reading ShaDa
+446.330  000.310: opening buffers
+446.387  000.057: BufEnter autocommands
+446.392  000.006: editing files in windows
+446.459  000.067: VimEnter autocommands
+446.513  000.054: UIEnter autocommands
+446.518  000.005: before starting main loop
+447.039  000.521: first screen update
+447.045  000.006: --- NVIM STARTED ---
+
