@@ -1457,3 +1457,403 @@ gp
 clear
 gc
 gc "hi"
+z dev
+clear
+gc "hi"
+ga
+gc "hi"
+gp
+gs
+gs
+z go
+gs
+clear
+z dev
+z
+z dev
+gs
+clear
+z
+clear
+btop
+time
+clear
+time
+clear
+v
+date
+clear
+z go
+z go
+fzf     --height=99% \
+    --layout=reverse \
+    --pointer='âƒ¶ƒ¨'\
+    --scrollbar='âƒ¶ƒ¬'\
+    --highlight-line\
+    --color=hl:#f3be7c\
+    --color=bg:-1\
+    --color=gutter:-1\
+    --color=bg+:#252530\
+    --color=fg+:#aeaed1\
+    --color=hl+:#f3be7c\
+    --color=border:#606079\
+    --color=prompt:#bb9dbd\
+    --color=query:#aeaed1:bold\
+    --color=pointer:#aeaed1\
+    --color=scrollbar:#aeaed1\
+    --color=info:#f3be7c\
+    --color=spinner:#7fa563\
+
+fzf     --height=99% --layout=reverse --pointer='âƒ¶ƒ¨' --scrollbar='âƒ¶ƒ¬' --highlight-line --color=hl:#f3be7c --color=bg:-1 --color=gutter:-1 --color=bg+:#252530 --color=fg+:#aeaed1 --color=hl+:#f3be7c --color=border:#606079 --color=prompt:#bb9dbd --color=query:#aeaed1:bold --color=pointer:#aeaed1 --color=scrollbar:#aeaed1 --color=info:#f3be7c --color=spinner:#7fa563 "\
+
+fc
+fzf     --height=99% --layout=reverse --pointer='âƒ¶ƒ¨' --scrollbar='âƒ¶ƒ¬' --highlight-line --color=hl:#f3be7c --color=bg:-1 --color=gutter:-1 --color=bg+:#252530 --color=fg+:#aeaed1 --color=hl+:#f3be7c --color=border:#606079 --color=prompt:#bb9dbd --color=query:#aeaed1:bold --color=pointer:#aeaed1 --color=scrollbar:#aeaed1 --color=info:#f3be7c --color=spinner:#7fa563 \
+
+clear
+v
+v
+hi
+exit
+hi
+dmenu_run -nb black
+dmenu_run -nb black -nf black
+dmenu_run -nb black -nf white -sb black -sfwhite
+dmenu_run -nb black -nf white -sb black 
+dmenu_run -nb black -nf white -sb black -sf white
+dmenu_run -nb black -nf black
+dmenu_run -nb white
+dmenu_run -nb black -nf white -sb black -sfwhite
+dmenu_run -nb black -nf white -sb black -sf white
+dmenu_run -nb black -nf white -sb black -sf white -b
+clear
+dmenu
+clear
+ls 
+ls -a | dmenu
+clear
+v
+locate dmenu
+v /usr/local/bin/dmenu_run\
+
+where-is dmenu
+whereis dmenu
+z /usr/bin/dmenu
+z /usr/local/bin/dmenu
+z /usr/share/man/man1/dmenu/b\
+
+fc
+z /usr/share/man/man1/dmenu/b\
+
+fc
+clear
+z
+clear
+v
+ping google.com
+clear
+date
+btop
+clear
+clear
+clear
+date
+clear
+date
+clear
+clear
+v
+claer
+z
+clear
+v
+clear
+v
+clear
+v
+btop
+clear
+v
+clear
+v
+v
+v
+clear
+v
+clear
+v
+v
+v
+clear
+v
+,key
+clear
+v
+v
+v
+clear
+v
+clear
+v
+clear
+v
+clear
+v
+clear
+z
+clear
+zi
+clear
+zoxide init zsh
+v .zshrc
+ls -a | wc
+ls -a | wc -l
+clear
+ls -a
+v
+alias yay
+clear
+yay
+yay user
+yay 
+clear
+date
+claer
+v
+vim .
+v
+vim
+source .zshrc
+vim
+vim .
+cpp
+clear
+z dev
+clear
+l
+z projects
+l
+v
+clear
+z cpp
+clear
+z cpptesting
+l
+cpp main.ccp
+cpp main.cpp
+g++
+g++ main.cpp
+l
+./a.out
+v
+v
+v
+fg
+clear
+v
+btop
+fg
+fg
+fg
+clear
+v
+btop
+clear
+claer
+clear
+btop
+clear
+date
+clear
+btop
+clear
+z
+clear
+zi
+clear
+zi
+clear
+zi
+clear
+clear
+v
+z dots
+z .config/tmux
+v
+sed
+clear
+sed *.pdf
+clear
+z
+z dev
+clear
+z pdfs
+v
+sed *.pdf
+sed *.pdf/
+clear
+v
+clear
+z
+z dev
+git add .
+git commmit -m "adding changes"
+git commit -m "adding things"
+git push
+l
+v
+z dots
+z ~/dots
+git add .
+git commit -m "changing some config options"
+git push
+v .zshrc
+clear
+z
+clear
+vs
+vs
+v
+clear
+z
+clear
+v
+clear
+v
+clear
+v
+claer
+v
+tmux
+tmux display-popup -w %100
+tmux display-popup -w 100%
+tmux display-popup -w 100% -h 100%
+hi
+vim
+tmux
+hi
+vim
+bash
+waybar
+waybar
+exit
+clear
+v
+clear
+v
+clear
+tmux display-popup -w 100% -h 100%
+tmux display-popup -w 100% -h 100%
+clear
+tmux display-popup -w 100% -h 100%
+ls
+v
+z dev/ntoes
+z dev/notes
+v
+rm note.md
+clear
+rm notes.md
+clear
+v
+z
+clear
+z notes
+z dots
+z
+clear
+v
+clear
+z
+clear
+v
+clear
+v
+clear
+z
+clear
+v
+waybar
+z .config/waybar
+v
+swaymsg reload
+fj
+clear
+v
+clear
+v
+v
+fj
+clear
+date
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+v
+v .zshrc
+vs
+clear
+clear
+clear
+claer
+clear
+clear
+devs/pdfs
+z dev/pdfs
+v
+clear
+clear
+z
+clear
+clear
+v
+clear
+clear
+clear
+z
+clear
+dev/scripts
+v
+clear
+z
+clear
+clear
+clear
+dots/.config/foot
+v
+clear
+z
+claer
+clear
+claer
+clear
+clear
+clear
+z dots/.config/tmux
+vim tmux.conf
+claer
+clear
+date
+clear
+z
+clear
+tmux a
+fj
+tmux a
+z dots/.config/foot
+v
+clear
+z
+clear
+clear
+clear
+z dots/.config/foot
+v
+exit
+tmux a
+fj
+exit
+exit
