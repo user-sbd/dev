@@ -1857,3 +1857,43 @@ tmux a
 fj
 exit
 exit
+ga
+gc "hi"
+ga
+ga
+ga
+gp
+clear
+z
+clear
+l
+l
+clear
+./dmenuzath.sh
+./dmenuzath.sh
+./dmenuzath.sh
+./dmenuzath.sh
+./dmenuzath.sh
+l
+v
+clear
+z
+clear
+touch dmenuzath.sh
+v dmenuzath.sh
+chmod +x dmenuzath.sh
+./dmenuzath.sh
+v dmenuzath.sh
+./dmenuzath.sh
+chmod +x dmenuzath.sh
+./dmenuzath.sh
+v dmenuzath.sh
+chmod +x dmenuzath.sh
+./dmenuzath.sh
+clear
+v
+z .config/sway
+v
+swaymsg reload
+clear
+gc hi"
