@@ -36,10 +36,10 @@ while true; do
             low_icon=""
         else
             color="#d8647e"  # Strong red
-            low_icon="⚠ "
+            low_icon="⚠"
         fi
         if [ "$status" = "Charging" ]; then
-            charging_icon="⚡ "
+            charging_icon="󰂄 "
         else
             charging_icon=""
         fi
