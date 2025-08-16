@@ -53,5 +53,5 @@ while true; do
     echo "  {\"name\":\"battery\", \"full_text\":\"$bat_str\", \"align\":\"right\", \"color\":\"$color\"}"
     echo "],"
 
-    sleep 60  # Update every minute
+    sleep 15  # Update every minute
 done
