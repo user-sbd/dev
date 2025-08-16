@@ -32,3 +32,11 @@ https://www.youtube.com/watch?v=x1MZ-3t6YTQ&list=RDqi0BsPKiPM8&index=2
 
 at the light
 polo g x vonoff1700
+
+
+https://www.youtube.com/watch?v=7RedW_f2Xmk&list=RD7RedW_f2Xmk&start_radio=1
+
+
+spin thru the mitch
+
+https://www.youtube.com/watch?v=RmYf6qA5QIY&list=RDRmYf6qA5QIY&start_radio=1
