@@ -52,7 +52,7 @@ while true; do
         elapsed=$(echo "$current_time - $start_time" | bc)
         # Format to seconds.milliseconds (e.g., 12.58)
         elapsed_str=$(printf "%.2f" "$elapsed" | sed 's/\.0*$//')
-        rec_str="rec: ${elapsed_str}"
+        rec_str=" : ${elapsed_str}"
         rec_block="{\"name\":\"recording\", \"full_text\":\"$rec_str\", \"align\":\"center\", \"color\":\"#ff0000\"},"
     fi
 
