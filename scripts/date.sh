@@ -7,4 +7,8 @@ if [ $current_day -le $target_day ]; then
 else
     days_left=$((30 - current_day + target_day))
 fi
-echo "$days_left 󰄽"
+if [ $days_left -lt 5 ]; then
+    echo "$days_left 󰀪 "  # Caution symbol from Nerd Font
+else
+    echo "$days_left 󰄽"
+fi
