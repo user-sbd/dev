@@ -4,7 +4,7 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/dev ~/.config -maxdepth 1 -type d -not -path '*/.git/*' -not -name '.git' -not -path '*/.config/autostart/*' -not -name 'autostart' -not -path '*/.config/configstore/*' -not -name 'configstore' -not -path '*/.config/legcord/*' -not -name 'legcord' -not -path '*/.config/menus/*' -not -name 'menus' | \
+    selected=$(find ~/dev ~/dots/.config -maxdepth 1 -type d -not -path '*/.git/*' -not -name '.git' -not -path '*/.config/autostart/*' -not -name 'autostart' -not -path '*/.config/configstore/*' -not -name 'configstore' -not -path '*/.config/legcord/*' -not -name 'legcord' -not -path '*/.config/menus/*' -not -name 'menus' | \
         sed "s|$HOME/||" | \
         { echo "dots"; cat -; } | \
         sk --color="bw" --margin=5% | \
