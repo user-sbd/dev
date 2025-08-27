@@ -3,7 +3,7 @@
 #align(center)[
   = ma song
 
-  *lemmie get that blunt rq*  
+  *lemmie get that blunt rq*  \
   she said she love me, i'm drinkin' third degree \  
   tryna deal with the pain but all she do is flee \  
   in the end, bae, it's just you or me \  
@@ -64,6 +64,7 @@
   but the tec and the wok got me movin' kinda fast \  
   life a marathon, but i’m sprintin' with no map \  
   still i keep it real, ‘cause my heart’s where i’m at \
-  chillin on yo block im crusing in a scatt
+  chillin on yo block im crusing in a scatt \
+
 ]
 
