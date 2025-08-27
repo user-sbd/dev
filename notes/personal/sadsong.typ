@@ -1,12 +1,13 @@
 #set text(font: "JetBrains Mono")
 
 #align(center)[
-  = ma song
 
-  *lemmie get that blunt rq*  \
   she said she love me, i'm drinkin' third degree \  
   tryna deal with the pain but all she do is flee \  
   in the end, bae, it's just you or me \  
+  out in miami crusin ona jet ski \
+  in this world turns out nun is free \
+  im tryna make it out giving god my plea \
 
   treat her like a princess in and out of fast cars \  
   i be outside drinkin', in and outa boujee bars \  
@@ -15,8 +16,8 @@
   i'm like a dark night, baby, you my only star \  
   if it's with you, bae, i'll go to mars \  
   look on my wrist, girl, this ain't just an audemar \  
-
   feel attraction, feel like drawn apart \  
+
   mix the tec with the wok, i'm floatin' in my zone \  
   life hittin' heavy, feel the weight up in my bones \  
   tryna chase a dream, but i'm stuck in monotone \  
@@ -24,7 +25,7 @@
   mama prayin' for me, but don't pick up the phone \  
   looking for da opps so high im like a drone \
   pops ain't checkin' in, guess i'm better off alone \  
-  i know they love , but its not shown \  
+  i know they love, but its not shown \  
   heart cold like the lean in my cup, it’s overflown \  
 
   i’m dodgin' demons daily, tryna keep my head straight \  
@@ -38,7 +39,7 @@
 
   life a gamble, roll the dice, i got dirty hands \  
   tryna stack these racks, but the struggle got demands \  
-  every move i make, feel like sinkin' in the sand\  
+  just left the club got like 50 rubber bands \
   tryna shine for my people, but they don’t understand \  
 
   i’m dodgin' fake love, keep my heart in a vault \  
