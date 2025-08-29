@@ -38,7 +38,7 @@ while true; do
         current_time=$(date +%s.%3N)
         elapsed=$(echo "$current_time - $start_time" | bc)
         elapsed_str=$(printf "%0.3f" "$elapsed")
-        rec_str="  ${elapsed_str}s"
+        rec_str="󰑋 ${elapsed_str}s"
         rec_block="{\"name\":\"recording\", \"full_text\":\"$rec_str\", \"align\":\"right\", \"color\":\"#ff5555\"},"
     fi
 
@@ -51,9 +51,10 @@ while true; do
         mpd_song=$(mpc current --format "%file%" 2>/dev/null | sed 's|.*/||' || echo "")
         if [ -n "$mpd_song" ]; then
             if echo "$mpd_status" | grep -q "\[playing\]"; then
-										mpd_icon=""
+										mpd_icon=" "
+										
             else
-										mpd_icon=""
+										mpd_icon=" "
             fi
             mpd_str="[${mpd_icon} ${mpd_song}]"
             mpd_block="{\"name\":\"mpd\", \"full_text\":\"$mpd_str\", \"align\":\"center\", \"color\":\"#55aaff\"},"
