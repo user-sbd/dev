@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VID_DIR="$HOME/dev/media/vids"
+VID_DIR="$HOME/Downloads/media/vids"
 STATE_FILE="/tmp/screen_record_state"
 START_TIME_FILE="/tmp/screen_record_start_time"
 LOG_FILE="/tmp/wf-recorder.log"

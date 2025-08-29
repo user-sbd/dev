@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory where videos are saved
-VID_DIR="$HOME/dev/media/vids"
+VID_DIR="$HOME/Downloads/media/vids"
 
 # Check if the directory exists
 if [ ! -d "$VID_DIR" ]; then
