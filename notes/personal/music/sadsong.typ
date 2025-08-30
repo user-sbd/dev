@@ -1,8 +1,7 @@
 #set text(font: "JetBrains Mono")
 
 #align(center)[
-  #link("https://www.youtube.com/watch?v=O8J2SHb97ls&list=PLp-GshImRiYbg6cB4hQLCSWiCZFAS-P1L&index=5")[*beat*]
-  \
+  #link("https://www.youtube.com/watch?v=O8J2SHb97ls&list=PLp-GshImRiYbg6cB4hQLCSWiCZFAS-P1L&index=5")[*beat*] \
   she said she love me, im drinkin third degree \  
   tryna deal with the pain but all she do is flee \  
   in the end, bae, its just you or me \  
