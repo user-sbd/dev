@@ -10,15 +10,15 @@ ever since dat day i cant feel the same
 
 seventeen im sippin lean tryna blur the shit i seen
 broken mirrors in my mind seven years of shattered dreams
-she give me da bean it cost a whole lotta green
-on yo block w a beam yo ass gon scream
+she slide da bean it cost a whole lotta green
+on yo block w a strap all u do is scream
 
 every pill a bad decision every sip a bad religion 
 finishin the mission same me just new edition
 quit da lean tradition in da right position
 shootin w precision hope she see the vision
 shawty got me trippin high off my ambition
-loves like a drug bro this my addiction
+loves like a drug this ma new addiction
 
 demons whisper, shadows slink, pour more purple, watch me sink
 karmas cold, it bites, it stings, debts i owe done broke ma wings
