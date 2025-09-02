@@ -25,7 +25,7 @@ loves like a drug this ma new addiction
 demons whisper, shadows slink, pour more purple, watch me sink
 karmas cold, it bites, it stings, debts i owe done broke ma wings
 pills dissolve, my pain be vast, dreams turn to completed tasks
-these pills a mask for the pain i feel someone just break my seal
+these pills a mask for the pain i pray someone just break my seal
 fuck the world im on my own heart colder than this chrome  
 used to call these streets my home but they carved me to the bone  
 
@@ -40,6 +40,8 @@ healed my wounds now im showin her to the sky
 
 mama said id be nothin just a shadow of her fears
 pops was out here chasin checks left me in tears
+hearing all the things that i never wanna hear
+
 grew up in the place where the love was counterfeit  
 friends turned to foes switchin up like a switch  
 hitech in my cup had me movin like a ghost  
@@ -61,7 +63,7 @@ she came through with love real shit no lie
 healed my wounds now im touchin the sky  
 
 used to wake up to the shakes body screamin for a hit  
-codeine callin like a siren had me aching for sip 
+codeine like a siren had me aching for sip 
 parents left me in the cold no hand to grip  
 learned to hustle through the struggle turned my pain in to a script  
 

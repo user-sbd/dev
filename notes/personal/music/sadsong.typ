@@ -54,7 +54,7 @@
   i know they love me, but that love feel like a myth \  
   family turn they back, now i’m stuck in this rift \  
   still i chase the bag, tryna give my life a lift \  
-  but the weight of the world got me leanin on a fifth \  
+  the weight of the world got me leanin on a fifth \  
 
   still i’m out here grindin, tryna make it through the dark \  
   every scar i carry got a story, leave a mark \  
@@ -62,9 +62,10 @@
   i’m my own hero, baby, you my only arc \  
 
   we reach the sky, leave the struggle in the past \  
-  but the tec and the wok got me movin kinda fast \  
+  but the tec and the wok got me movin fast \  
   life a marathon, but i’m sprintin with no map \  
   still i keep it real, ‘cause my heart’s where i’m at \
   chillin on yo block im crusing in a scatt \
+  yu know its us when the windows tinted black
 ]
 
