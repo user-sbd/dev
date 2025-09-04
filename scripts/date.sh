@@ -1,5 +1,5 @@
 #!/bin/bash
-set -x  # Enable debugging to trace execution
+set -x  
 current_day=$(date +%d)
 target_day=3
 if [ $current_day -le $target_day ]; then
