@@ -5,10 +5,10 @@ wockhardt dreams purple haze had me floatin through the drought
 mama wasnt home pops a ghost pacin round da house  
 
 karmas got a grudge every sin in vain
-tried to drowm em but they swim in the pain 
+tried to drowm em out but they swim in the pain 
 switched it up turn that pain into gain
 ever since that day i cant feel the same
-my worst shame now my rise to fame
+my biggest shame not my rise to fame
 
 seventeen im sippin lean tryna blur the shit i seen
 broken mirrors in my mind seven years of shattered dreams
@@ -25,7 +25,7 @@ loves like a drug this ma new addiction
 demons whisper, shadows slink, pour more purple, watch me sink
 karmas cold, it bites, it stings, debts i owe done broke ma wings
 pills dissolve, my pain be vast, dreams turn to completed tasks
-these pills a mask for the pain i pray someone just break my seal
+these pills a mask for the pain i pray i find my home
 fuck the world im on my own heart colder than this chrome  
 used to call these streets my home but they carved me to the bone  
 
@@ -50,6 +50,7 @@ do the fuckin most cro ill kick u out yo post
 percs had me slippin thought id never see the coast  
 karmas like a boomerang its circlin back with precision  
 every lie i told myself reflected in my vision  
+
 tinted benz im ridin low city lights like broken vows  
 thought id die before i changed but im still here somehow  
 met her in the chaos eyes like stars in midnight rain  

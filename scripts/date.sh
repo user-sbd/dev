@@ -1,7 +1,7 @@
 #!/bin/bash
 set -x  # Enable debugging to trace execution
 current_day=$(date +%d)
-target_day=12
+target_day=3
 if [ $current_day -le $target_day ]; then
     days_left=$((target_day - current_day))
 else
