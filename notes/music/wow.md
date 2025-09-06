@@ -1,6 +1,5 @@
-
 codeine in my system hitech in my mouth  
-she give me some wisdom better make it out
+bro give me some wisdom better make it out
 wockhardt dreams purple haze had me floatin through the drought  
 mama wasnt home pops a ghost pacin round da house  
 
@@ -8,7 +7,7 @@ karmas got a grudge every sin in vain
 tried to drowm em out but they swim in the pain 
 switched it up turn that pain into gain
 ever since that day i cant feel the same
-my biggest shame not my rise to fame
+my biggest shame now my rise to fame
 
 seventeen im sippin lean tryna blur the shit i seen
 broken mirrors in my mind seven years of shattered dreams
