@@ -7,7 +7,6 @@ LOG_FILE="/tmp/wf-recorder.log"
 AUDIO_DEVICE="alsa_output.pci-0000_00_1b.0.pro-output-0.monitor"
 
 if ! pactl list sources short | grep -q "$AUDIO_DEVICE"; then
-    notify-send "Error" "Audio source $AUDIO_DEVICE not found. Check pactl list sources."
     echo "Error: Audio source $AUDIO_DEVICE not found." >> "$LOG_FILE"
     echo "Available sources:" >> "$LOG_FILE"
     pactl list sources short >> "$LOG_FILE"
@@ -18,7 +17,6 @@ if [ -f "$STATE_FILE" ]; then
     WF_PID=$(cat "$STATE_FILE")
     if ps -p "$WF_PID" > /dev/null; then
         kill "$WF_PID" 2>/dev/null
-        notify-send "Recording Stopped" "Recording has been stopped."
     fi
     rm -f "$STATE_FILE" "$START_TIME_FILE"
 else
@@ -32,7 +30,6 @@ else
     
     sleep 0.1
     if ! ps -p "$WF_PID" > /dev/null; then
-        notify-send "Error" "Failed to start wf-recorder with audio device: $AUDIO_DEVICE"
         echo "Error: Failed to start wf-recorder with audio device: $AUDIO_DEVICE" >> "$LOG_FILE"
         rm -f "$STATE_FILE" "$START_TIME_FILE"
         exit 1
@@ -40,5 +37,4 @@ else
     
     echo "$WF_PID" > "$STATE_FILE"
     date +%s.%3N > "$START_TIME_FILE"
-    notify-send "Recording Started" "Recording to $OUTPUT_FILE"
 fi
