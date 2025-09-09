@@ -17,15 +17,26 @@ i kept the same letter but now its the codiene
 heart cold matches w the cold lean
 
 dirty cup pour it up sip more sprite you know im up
+she said she just wanan fuck miss that girl she got me stuck
 
 blood or what in my cup u know ima vampire
 sip it up she know dat my lyrics rlly on fire
-pops called me i thought he was buyer
+pops called me i thought he was damn buyer
 real niggas started wearing dem fake wires
-spark it up w a torch dis bih a campfire
-see my song young niggas say i inspire
-showed real love that shit always backfire
+spark it up w a torch dis bih like a campfire
+see my song young niggas say i rlly inspire
+showed real love that shit always fucking backfire
 at the funeral crying listening to the choir
-street life a game no fucking umpire
-my loyalty sumn thhat will never expire
-late nights gunfire had to keep it up cuz u know im the supplier
+street life a game w no fucking umpire
+my loyalty sumn that never expire
+late nights gunfire had to keep it up cuz u know who da supplier
+
+demons in my mind ion kno where they reside
+keep on tellng me do what u want go outside
+ion know whats the right what to decide
+right side left side ion know whats right
+but the whip left hand drive cuz the money tight
+
+im coming out the wrong side with the right pipe ready for fight night
+she knows we the ones right
+rapping at the stu in the mic high off lean ion know whats right
