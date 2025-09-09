@@ -1,6 +1,5 @@
 #show: doc => [
   #set page(margin: 1in)
-  #set text(font: "Times New Roman", size: 12pt)
   #set par(justify: true)
 
 

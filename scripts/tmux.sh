@@ -7,7 +7,7 @@ else
     # List all directories under ~/dev up to depth 3 and add ~/.config
     selected=$( (find ~/dev -maxdepth 3 -type d -not -path '*/.git/*' -not -name '.git'; echo ~/.config) | \
         sed "s|$HOME/||" | \
-        sk --color="bw" --margin=5% | \
+        sk --color="bw" --margin=10% | \
         grep -v '^$'
     )
     if [[ -n "$selected" ]]; then

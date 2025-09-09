@@ -1,13 +1,20 @@
 #!/bin/bash
 
 CATEGORIES=(
-	"writing"
-	"insta"
-	"workflow"
-	"programming"
-	"gaming"
+    "WORKFLOW"
+		"MEDIA"
+		"LEARNING"
+    "PROGRAMMING"
+    "STOP"
 )
 
 selected=$(printf "%s\n" "${CATEGORIES[@]}" | sk --margin 10% --color="bw")
 
-timew start $selected
+if [[ "$selected" == "STOP" ]]; then
+    timew stop
+		tmux set -g status-right ""
+else
+    timew start "$selected"
+		tmux set -g status-right "$selected "
+fi
+
