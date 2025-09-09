@@ -2,9 +2,10 @@
 
 CATEGORIES=(
     "WORKFLOW"
+		"WIFE TIME"
 		"MEDIA"
 		"LEARNING"
-    "PROGRAMMING"
+    "CODING"
     "STOP"
 )
 
