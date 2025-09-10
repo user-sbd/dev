@@ -74,3 +74,4 @@ every bars a piece of me every rhymes a mend
 tinted dreams im cruisin slow where the fuck im posed to go  
 fake love gone da truth show karmas callin debts i owe  
 codeine waves im sinkin low but she pulled me from the glow  
+
