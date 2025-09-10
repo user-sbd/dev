@@ -2,7 +2,8 @@
 
 CATEGORIES=(
     "WORKFLOW"
-		"WIFE TIME"
+    "LYRICS"
+		"MUSIC"
 		"MEDIA"
 		"LEARNING"
     "CODING"

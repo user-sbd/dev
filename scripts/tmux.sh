@@ -4,14 +4,12 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    # List all directories under ~/dev up to depth 3 and add ~/.config
     selected=$( (find ~/dev -maxdepth 3 -type d -not -path '*/.git/*' -not -name '.git'; echo ~/.config) | \
         sed "s|$HOME/||" | \
         sk --color="bw" --margin=10% | \
         grep -v '^$'
     )
     if [[ -n "$selected" ]]; then
-        # Resolve full path for the selected directory
         selected=$( (find ~/dev -maxdepth 3 -type d -not -path '*/.git/*' -not -name '.git' -name "$(basename "$selected")"; echo ~/.config) | \
             grep "^$HOME/$selected$" | head -n 1)
     fi
@@ -21,12 +19,10 @@ if [[ -z $selected ]]; then
     exit 0
 fi
 
-# Ensure selected is an absolute path
 if [[ ! "$selected" == /* ]]; then
     selected="$HOME/$selected"
 fi
 
-# Verify the directory exists
 if [[ ! -d "$selected" ]]; then
     exit 0
 fi

@@ -3,10 +3,7 @@
 DIRS=(
     "$HOME/dev"
     "$HOME"
-    "$HOME/dots"
     "$HOME/dev/notes"
-		"$HOME/dev/code/projects/"
-		"$HOME/dev/notes/"
 )
 
 if [[ $# -eq 1 ]]; then

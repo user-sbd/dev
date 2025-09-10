@@ -24,7 +24,7 @@ loves like a drug this ma new addiction
 demons whisper shadows slink pour more purple watch me sink
 karmas cold it bites it stings debts i owe done broke ma wings
 pills dissolve my pain be vast dreams turn to completed tasks
-these pills a mask for the pain i pray i find my home
+pills a mask for the pain i pray i find my home
 fuck the world im on my own heart colder than this chrome  
 used to call these streets my home but they carved me to the bone  
 

@@ -39,4 +39,4 @@ but the whip left hand drive cuz the money tight
 
 im coming out the wrong side with the right pipe ready for fight night
 she knows we the ones right
-rapping at the stu in the mic high off lean ion know whats right
+rapping at the stu in the mic trippin off lean ion know whats right
