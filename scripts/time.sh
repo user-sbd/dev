@@ -4,7 +4,7 @@ CATEGORIES=(
     "CODING"
     "WORKFLOW"
     "LEARNING"
-		"CONSUMING"
+    "CONSUMING"
     "VIDEO"
     "WRITING"
     "STOP"
@@ -24,5 +24,5 @@ if [[ "$selected" == "STOP" ]]; then
     tmux set -g status-right " "
 else
     timew start "$selected"
-    tmux set -g status-right "$selected #(timew | awk '/^ *Total/ {print \$NF}')"
+    tmux set -ga status-right "#(timew | awk '/^ *Total/ {print \$NF}') #[bg=blue,fg=black,bold]#(timew | awk '/^ *Tracking/ {print \" \" \$NF \" \"}')"
 fi
