@@ -12,7 +12,6 @@ my biggest shame now my rise to fame
 seventeen im sippin lean tryna blur the shit i seen
 broken mirrors in my mind seven years of shattered dreams
 she slide da bean it cost a lotta green
-on yo block w a strap all u do is scream
 
 every pill a bad decision every sip a bad religion 
 ina good condition same me new edition
