@@ -23,8 +23,8 @@ tmux set -g status-interval 1
 
 if [[ "$selected" == "STOP" ]]; then
     timew stop
-    tmux set -g status-right "#{?client_prefix, _,}"
+    tmux set -g status-right ""
 else
     timew start "$selected"
-    tmux set -g status-right "#(timew | awk '/^ *Tracking/ {print \$NF \" \"}')#(timew | awk '/^ *Total/ {print \$NF}') #[bg=default,fg=black,bold]#{?client_prefix, _,}"
+    tmux set -g status-right "#(timew | awk '/^ *Tracking/ {print \$NF \" \"}')#(timew | awk '/^ *Total/ {print \$NF}')"
 fi

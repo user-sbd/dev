@@ -11,7 +11,7 @@ i still tell my mama that im clean
 
 how to feel when u see the shit i seen
 my first body i saw i was only fourteen
-seen both sides and everything like everything betwenn
+seen both sides and everything like everything inbetween
 stayin up late nights off that cafiene 
 i kept the same letter but now its the codiene
 heart cold matches w the cold lean
