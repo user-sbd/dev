@@ -1,7 +1,6 @@
 yeah
 they say its all love right
 
-(verse 1)
 hundred on the dash crusin in a scat pack
 smokin on this extra extra loud pack its a fact
 broken loyalty they dont ride for me where the love at

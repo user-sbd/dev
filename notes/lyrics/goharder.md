@@ -1,17 +1,17 @@
 codeine in my system hitech in my mouth  
-bro give me some wisdom better make it out
+she give me some wisdom better make it out
 wockhardt dreams purple haze had me floatin through the drought  
 mama wasnt home pops a ghost pacin round da house  
 
 karmas got a grudge every sin in vain
-tried to drowm em out but they swim in the pain 
+tried to drowm em out but they swim in pain 
 switched it up turn that pain into gain
 ever since that day i cant feel the same
 my biggest shame now my rise to fame
 
 seventeen im sippin lean tryna blur the shit i seen
 broken mirrors in my mind seven years of shattered dreams
-she slide da bean it cost a lotta green
+she slide da bean mama think im still clean
 
 every pill a bad decision every sip a bad religion 
 ina good condition same me new edition

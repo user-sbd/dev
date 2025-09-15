@@ -2,11 +2,10 @@
 
 CATEGORIES=(
     "CODING"
+    "MUSIC"
     "WORKFLOW"
     "LEARNING"
-    "CONSUMING"
     "VIDEO"
-    "WRITING"
     "STOP"
 )
 
@@ -14,8 +13,7 @@ selected=$(printf "%s\n" "${CATEGORIES[@]}" | sk --margin 10% --color="bw" --bin
 sk_status=$?
 
 if [[ $sk_status -ne 0 || -z "$selected" ]]; then
-    # Ensure prefix indicator is shown even on abort
-    tmux set -g status-right "#(timew | awk '/^ *Total/ {print \$NF}') #{?client_prefix, _,}"
+    tmux set -g status-right ""
     exit 0
 fi
 
