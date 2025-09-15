@@ -11,3 +11,4 @@ who am i to you pushin thru the whip this ain nun new
 no ID in the club dey know we the ones
 CID in the crib taking all the fundz
 they know we the ones who stack smoking on dem runtz
+when u take a life nigga ain no refund
