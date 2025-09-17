@@ -1,0 +1,15 @@
+#set text(font: "JetBrains Mono");
+
+#align(center)[
+
+  chillin w the fully we the reason the whole block hot
+  left him bleeding bro ain even have time to clot
+  if i cant see thru a whip u gon see a fucking red dot
+  high all night stuck inside ma own thoughts
+  drop sum fresh meat in the lake like its hotpot
+  if u from the opp block u could get shot
+  last nigga got sweeped like a mop
+
+  feds pullup to the crib thinking they hit a jackspot
+  dumbass niggas this ain even our main spot
+]

@@ -66,10 +66,6 @@ codeine like a siren had me aching for sip
 parents left me in the cold no hand to grip  
 learned to hustle through the struggle turned my pain in to a script  
 
-citys still the same but im seein it thru a different lens  
-tinted dreams turned vivid now im writin my amends  
-every bars a piece of me every rhymes a mend  
-
 tinted dreams im cruisin slow where the fuck im posed to go  
 fake love gone da truth show karmas callin debts i owe  
 codeine waves im sinkin low but she pulled me from the glow  

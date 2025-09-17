@@ -8,7 +8,7 @@ fake loves a drug and it just lies to me what is trust at
 cid in the crib takin all the funds thats a setup
 took my brother from the plug now his souls up i cant get up
 seen his body hit the floor for some street rep what a letdown
-when you take a life nigga aint no refund just a headstone
+when you take a life nigga aint no refund just a mandown
 demons in my mind got me talkin to the walls
 voices in the back of my head they keep callin out for more
 poppin percs just to silence all the noise behind the door
