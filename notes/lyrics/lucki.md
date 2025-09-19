@@ -5,7 +5,7 @@ smokin on this loud pack its a fact
 broken loyalty they dont ride for me where the love at
 fake loves a drug and it just lies to me what is trust at
 cid in the crib takin all the funds thats a setup
-cro went to the pen one night ain got time to call backup
+one day out randoms asking me for shit like let me getupp
 seen his body drop fo some street rep what a letdown
 when you take a life nigga aint no refund dats a mandown
 mandown my face don een got a frown ion feel like shit no more
@@ -30,7 +30,7 @@ hearts turn to plastic the world feels so massive
 just tryna find a moment that feels real
 yeah searchin for a truth that ain just feels
 
-bitches said they love me who are you to i
+she said they love me who are you to i
 who am i to you just a dollar sign in they eye
 pushin thru the whip this aint nothin new i just ride
 another friend lost to the violence i just cry inside

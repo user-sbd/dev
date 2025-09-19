@@ -13,4 +13,9 @@
   feds pullup to the crib thinking they hit a jackspot
   dumbass niggas this ain even our main spot
 
+  sippin on dis lean got anotha pint of trish
+  throwin 1's and dez bitches on my dick
+  wen im on yo block uk my trigger finger itchin
+  dis a glock u know im shootin w precision
+
 ]
