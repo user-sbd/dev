@@ -6,7 +6,7 @@ if [[ $# -eq 1 ]]; then
 else
     selected=$( (find ~/dev -maxdepth 3 -type d -not -path '*/.git/*' -not -name '.git'; echo ~/.config) | \
         sed "s|$HOME/||" | \
-        sk --color="bw" --margin=10% | \
+        sk --color="bw" --margin=10% --bind 'q:abort' | \
         grep -v '^$'
     )
     if [[ -n "$selected" ]]; then
