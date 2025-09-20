@@ -5,15 +5,18 @@ smokin on this loud pack its a fact
 broken loyalty they dont ride for me where the love at
 fake loves a drug and it just lies to me what is trust at
 cid in the crib takin all the funds thats a setup
-one day out randoms asking me for shit like let me getupp
+one day out niggas asking me for shit like let me getupp
 seen his body drop fo some street rep what a letdown
 when you take a life nigga aint no refund dats a mandown
-mandown my face don een got a frown ion feel like shit no more
+mandown my face don een got a frown ion even feel shit no more
 try to take when wen we in the town nigga we gon up the score
 
 demons in my mind got me talkin to the walls
-ion know if ima stand up or ima fall
-voices in the back of my head they keep callin out for more
+ion know if i can stand up or if ima fall
+if i fall who gon pick me up
+i was at thhe bottom chillin w real dirty stuff
+so when we hit its a headshot no fakin bluff
+voices in the back of my head keep callin out for more
 poppin percs just to silence all the noise behind the door
 sippin lean tryna wash away the pain down to the core
 they see the chains they see the whips they think a nigga made it
@@ -22,7 +25,7 @@ mama on that other shit her own son she cant face it
 another headline another black face they just racist
 
 they see the money the cars the clothes they think im livin large
-but look closer at the pain see all the mental scars
+but look closer at the pain you could c the mental scars
 they see the smoke they see the drink they see me goin hard
 but they dont see the broken soul splittin apart
 is it worth it all this cash but the love is absent
@@ -30,8 +33,8 @@ hearts turn to plastic the world feels so massive
 just tryna find a moment that feels real
 yeah searchin for a truth that ain just feels
 
-she said they love me who are you to i
-who am i to you just a dollar sign in they eye
+they say they love me who are you to i
+who am i to you just a dollar sign in your eye
 pushin thru the whip this aint nothin new i just ride
 another friend lost to the violence i just cry inside
 got me boxed in cant they see in no more 
@@ -44,7 +47,7 @@ poppin pills to escape the truth for a little while
 drownin in the luxury drownin in the style
 they know we the ones who stack smokin on them runtz
 they know we the ones who came from nothin frontin bout the stunts
-this life of sin i wonder if its ever gonna blunt
+this life of sin i wonder why i feel so blunt
 the constant ache the feelin that youre always up against
 
 they see the money the cars the clothes they think im livin large
